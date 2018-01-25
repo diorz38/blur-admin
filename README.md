@@ -14,6 +14,10 @@ Here you can find Angular2 based version: [ng2-admin](https://github.com/akveo/n
 
 ### Documentation
 Installation, customization and other useful articles: https://akveo.github.io/blur-admin/
+#### Install On Windows: (As Administrator Previledge)
+npm install --production windows-build-tools
+npm install -g node-gyp
+npm install
 
 *If you have problems installing and just want to download JS and css files, you can find download links here*: http://akveo.github.io/blur-admin/articles/091-downloads/
 
